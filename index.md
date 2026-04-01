@@ -34,9 +34,9 @@ As a person, I value curiosity, consistency, and helping teammates unblock quick
 
 ### Current Goals
 
-1. Build stronger full-stack fundamentals.
-2. Write cleaner, more testable code.
-3. Improve project documentation quality.
+1. Improve Full-Stack Skills.
+2. Write cleaner code.
+3. Improve the project documentation quality.
 
 ### Weekly Plan (Task List)
 
@@ -48,9 +48,9 @@ As a person, I value curiosity, consistency, and helping teammates unblock quick
 
 ## Personal Side
 
-> "Small daily improvements are the key to long-term growth."
+> "Small improvements are the best way to have long-term growth."
 
-I like learning through practical projects, reading technical blogs, and experimenting with new tools.
+I like learning through doing a lot of personal side-projects, and additonally working on leetcode problems. 
 
 ## Projects
 
@@ -71,15 +71,15 @@ result = sum(i * i for i in range(1, n + 1))
 print(result)
 ```
 
-### Mixed Lists
+### Task Lists
 
-- Learning priorities
-- Collaboration
-- Documentation
+- Coding
+- Writing
+- Communicating
 
-1. Plan
-2. Build
-3. Review
+1. Plan Steps
+2. Build Steps
+3. Review Steps
 
 ### Table
 
